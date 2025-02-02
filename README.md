@@ -1,6 +1,6 @@
 # Ollama Chatbot
 
-![Ollama Chatbot](https://your-image-link.com/banner.png)
+![Ollama Chatbot](img/screenshot.png)
 
 A simple and interactive chatbot powered by **Ollama** and **Llama 3.2**, designed for generating AI-driven responses efficiently.
 
